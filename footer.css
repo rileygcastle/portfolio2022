@@ -1,20 +1,20 @@
 .footer-list {
-    color:#383434;
-    list-style: none;
-    margin: 5px;
-    text-align: center;
+  color: #383434;
+  list-style: none;
+  margin: 5px;
+  text-align: center;
 }
 
-
 footer {
-    background-color:#eebeb8;
-    padding: 10px;
-    border-top: 1px solid #383434;
+  background-color: #eebeb8;
+  padding: 10px;
+  border-top: 1px solid #383434;
+  font-family: "Raleway", sans-serif;
 }
 
 .footer-copyright {
-    color: #383434;
-    text-align: center;
-    margin: 20px;
-    font-size: 20px;
+  color: #383434;
+  text-align: center;
+  margin: 20px;
+  font-size: 20px;
 }

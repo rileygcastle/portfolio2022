@@ -25,15 +25,16 @@ h2 {
     font-size: 20px;
     color: #383434;
     font-family: 'Raleway', sans-serif;
+    font-weight: 200
 }
 
 .contact-list {
     text-align: center;
     margin: 200px;
     padding: 100px;
-    border:1px solid #383434;
+    border:1px solid #ddc4c1;
     border-radius: 6px;
-    background-color: #231d1d39;
+    background-color: #eebeb86f;
     backdrop-filter: blur(2px);
 
 }
