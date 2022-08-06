@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: #383434;
+}
+
+html {
+    background-image: url("https://www.bellacor.com/dw/image/v2/BFKX_PRD/on/demandware.static/-/Sites-masterCatalog_bellacor/default/dw33fe202c/images/large/238801PR33835.jpg?sw=600");
+
+}
+h1 {
+    color:#383434;
+    font-size: 65px;
+    font-family: 'Cormorant SC', serif;
+    margin-bottom: 0%;
+    text-align: center;
+    padding: 20px;
+}
+h2 {
+    color:#383434;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+p {
+    color: #383434;
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.profile-image{
+    margin-left: 50%;
+    transform: translateX(-50%);
+    border-radius: 100%;
+    border: 5px solid #383434;
+    height: 850px;
+    
+}
+
