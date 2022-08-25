@@ -37,8 +37,16 @@ h2 {
     margin-left: 50%;
     transform: translateX(-50%);
     border-radius: 100%;
-    border: 5px solid #383434;
-    height: 850px;
+    border: 2px solid #ffffff;
+    height: 600px;
+    width: 600px;
+    object-fit: contain;
     
 }
 
+@media only screen and (max-width: 600px) {
+    .profile-image {
+      height: 200px;
+      width: 200px;
+    }
+  }
